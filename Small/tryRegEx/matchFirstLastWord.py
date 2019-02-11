@@ -9,7 +9,7 @@ import re
 
 txt = "The rain in Spain"
 
-x = re.search("^The.*Spain$", txt)  # This line returns TRUE or FALSE
+x = re.search("^The.*Spain$", txt)  # This line returns TRUE or FALSE, "." any character, "*" zero or more occurrence.
 
 if x:
 	print("Yes, We have a match!")
