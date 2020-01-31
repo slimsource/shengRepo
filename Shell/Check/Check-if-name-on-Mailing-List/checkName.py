@@ -3,7 +3,7 @@
 # Enter a name and show if it is on the list or not
 # Syntax: ./<script> <name>
 #
-# if loop
+# if-else-fi loop
 # $?            : based on last user entry, return 0 if pass, 1 for fail 
 # > /dev/null   : Hide output of command
 #--------------------------------------------------------------------
